@@ -50,7 +50,11 @@ I am looking for a role where I can practice or implement secure development str
 """
 
 HIGHLIGHTS = ('Authored a web scraper, using Scrapy, that yielded hundreds of thousands of lines of business contact data; saving hours of manual prospecting time.',
+<<<<<<< HEAD
 'Wrote a Python script that automated a Big Commerce site\'s monthly upgrades of hundreds of products; saving numerous hours of manual upgrades.',
+=======
+'Wrote a Python script that automated a Big Commerce site\'s monthly upgrades of hunderds of products; saving numerous hours of manual upgrades.',
+>>>>>>> b45e7a6aeefc2f56dcaf7bf5f130597038469f9d
 'Deployed a Python package that performs calculations for fitness professionals.  With the help of this software I was able to effectively manage numerous individual\'s \
 diet exercise programs and helping them lose an average of 3% body fat in the first month.  This software decreased my preperation time from approximately two hours per month per client \
 to one hour per month per client',)
